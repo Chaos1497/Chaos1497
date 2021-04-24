@@ -4,7 +4,7 @@ Computer Engineering student at Tecnológico de Costa Rica.
 
 To contact me:
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/esteban.1497/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/esteban-andrés-zúñiga-orozco-4711aa142)
+[<img src="https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/es.zuniga97) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/esteban.1497/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/esteban-andrés-zúñiga-orozco-4711aa142)
 
 ---
 Some Github stats: 
