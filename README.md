@@ -8,11 +8,7 @@ To contact me:
 
 ---
 Some Github stats: 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=chaos1497&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1497&hide=css,html&theme=tokyonight">
-</p>
-
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ema11412&hide=shell,makefile,jupyter notebook,verilog&layout=compact&theme=cobalt&langs_count=10" width="450"/>
 ---
 Some languages & tools that I've programmed with:
 
